@@ -36,3 +36,4 @@ Power point & AI
 
 
 #Dashboard / Report:
+<img src="https://github.com/nsaha3827-netizen/BANK-CHURN-ANALYSIS/blob/main/Screenshot%202025-12-05%20100030.png" width="700">
