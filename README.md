@@ -35,5 +35,15 @@ Power point & AI
 5.Improving customer engagement and targeted retention strategy can reduce churn.
 
 
-#Dashboard / Report:
-<img src="https://github.com/nsaha3827-netizen/BANK-CHURN-ANALYSIS/blob/main/Screenshot%202025-12-05%20100030.png" width="700">
+## Dashboard Preview
+Below is the Excel dashboard created to visualize customer churn factors and trends.
+
+<img src="https://raw.githubusercontent.com/nsaha3827-netizen/BANK-CHURN-ANALYSIS/main/Screenshot%202025-12-05%20100030.png" width="700">
+
+### Dashboard Highlights
+- Total customers analyzed
+- Churn rate clearly visualized by customer groups
+- Satisfaction & activity scores showcased
+- Churn severity by geography (Germany highest)
+- Credit score impact on churn
+
